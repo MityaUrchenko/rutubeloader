@@ -1,0 +1,380 @@
+[
+  {
+    "id": 1,
+    "ema_id": null,
+    "name": "user_disactivated",
+    "displayed_name": null,
+    "content_type": 139,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 2,
+    "ema_id": null,
+    "name": "user_banned",
+    "displayed_name": null,
+    "content_type": 139,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 3,
+    "ema_id": null,
+    "name": "user_deleted_video",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 4,
+    "ema_id": null,
+    "name": "moder_deleted_video",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": true,
+    "for_report": false
+  },
+  {
+    "id": 5,
+    "ema_id": null,
+    "name": "new_video",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 6,
+    "ema_id": null,
+    "name": "error_upload_video",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 7,
+    "ema_id": null,
+    "name": "illegal_content",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": true,
+    "for_report": false
+  },
+  {
+    "id": 8,
+    "ema_id": null,
+    "name": "delete_by_rightholder",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": true,
+    "for_report": false
+  },
+  {
+    "id": 9,
+    "ema_id": null,
+    "name": "user_locked",
+    "displayed_name": null,
+    "content_type": 1,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 10,
+    "ema_id": null,
+    "name": "default_deleted_video",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 11,
+    "ema_id": null,
+    "name": "default_does_not_exists_video",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 12,
+    "ema_id": null,
+    "name": "default_hidden_video",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 13,
+    "ema_id": null,
+    "name": "custom_restrict",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 14,
+    "ema_id": null,
+    "name": "special",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 15,
+    "ema_id": null,
+    "name": "converting_video",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": true,
+    "for_report": false
+  },
+  {
+    "id": 16,
+    "ema_id": null,
+    "name": "downloading_video",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 17,
+    "ema_id": null,
+    "name": "delete_roskomnadzor",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": true,
+    "for_report": false
+  },
+  {
+    "id": 20,
+    "ema_id": null,
+    "name": "recording_video",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 21,
+    "ema_id": null,
+    "name": "\u0423\u0434\u0430\u043b\u0435\u043d\u043e \u043a\u0430\u043a \u0421\u041f\u0410\u041c",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 22,
+    "ema_id": null,
+    "name": "recording_video_error",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 23,
+    "ema_id": null,
+    "name": "\u041c\u0430\u0436\u043e\u0440: \u0441\u0435\u0440\u0438\u044f 3",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 24,
+    "ema_id": null,
+    "name": "purchase_paid",
+    "displayed_name": null,
+    "content_type": 195,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 25,
+    "ema_id": null,
+    "name": "purchase_failed",
+    "displayed_name": null,
+    "content_type": 195,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 26,
+    "ema_id": null,
+    "name": "purchase_canceled",
+    "displayed_name": null,
+    "content_type": 195,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 27,
+    "ema_id": null,
+    "name": "wait_livestream",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 28,
+    "ema_id": null,
+    "name": "stop_livestream",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 29,
+    "ema_id": null,
+    "name": "purchase_paymentawaiting",
+    "displayed_name": null,
+    "content_type": 195,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 30,
+    "ema_id": null,
+    "name": "user_inactive",
+    "displayed_name": null,
+    "content_type": 139,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 31,
+    "ema_id": null,
+    "name": "\u043c\u0435\u043c\u043e\u0440\u0430\u043d\u0434\u0443\u043c",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 32,
+    "ema_id": null,
+    "name": "moderation",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 33,
+    "ema_id": null,
+    "name": "checking rules",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 34,
+    "ema_id": null,
+    "name": "illegal_check",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 35,
+    "ema_id": null,
+    "name": "live_without_live",
+    "displayed_name": "\u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430",
+    "content_type": 216,
+    "for_moderation": false,
+    "for_report": true
+  },
+  {
+    "id": 36,
+    "ema_id": null,
+    "name": "source_deactivated",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": false,
+    "for_report": false
+  },
+  {
+    "id": 37,
+    "ema_id": null,
+    "name": "comm1",
+    "displayed_name": "comm1",
+    "content_type": 106,
+    "for_moderation": false,
+    "for_report": true
+  },
+  {
+    "id": 38,
+    "ema_id": null,
+    "name": "government_request",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": true,
+    "for_report": false
+  },
+  {
+    "id": 39,
+    "ema_id": null,
+    "name": "\u0441opyright_abuse",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": true,
+    "for_report": false
+  },
+  {
+    "id": 40,
+    "ema_id": null,
+    "name": "\u043ebscene_video",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": true,
+    "for_report": false
+  },
+  {
+    "id": 41,
+    "ema_id": null,
+    "name": "gambling_abuse",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": true,
+    "for_report": false
+  },
+  {
+    "id": 42,
+    "ema_id": null,
+    "name": "financial_abuse",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": true,
+    "for_report": false
+  },
+  {
+    "id": 43,
+    "ema_id": null,
+    "name": "meta",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": true,
+    "for_report": false
+  },
+  {
+    "id": 44,
+    "ema_id": null,
+    "name": "shocking_content",
+    "displayed_name": null,
+    "content_type": 12,
+    "for_moderation": true,
+    "for_report": false
+  }
+]

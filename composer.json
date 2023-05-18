@@ -1,0 +1,17 @@
+{
+    "name": "mu/rutubeloader",
+    "autoload": {
+        "psr-4": {
+            "Rutubeloader\\": "rutubeloader/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mitya Urchenko",
+            "email": "mitya.urchenko@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.1"
+    }
+}
